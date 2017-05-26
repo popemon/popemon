@@ -1,8 +1,8 @@
 {
-    "apikey": "public warcraftlogs api key",
-    "region": "US, EU, KR, TW or CN",
-    "realm": "realm-name",
-    "guild": "guild-name",
+    "apikey": "4b1001d4da99878567f41a65c28d4067",
+    "region": "US",
+    "realm": "ragnaros",
+    "guild": "epic wipe",
     "seconds": 15,
-    "discordURL": "discord webhook url"
+    "discordURL": "https://discordapp.com/api/webhooks/317444206023016449/1oQ7YOVP_Er2gFplaI-5eoiJjVbRkPQ8splXY1wBZgsD2YCbEIT-c8qpwpeIL1CY1fPX"
 }
